@@ -1,0 +1,38 @@
+numpy
+pandas
+matplotlib
+rich
+tqdm
+# pdf
+pypdf
+python-dotenv
+chromadb
+groq
+# langchain
+langchain
+langgraph
+langsmith
+langgraph-cli
+langgraph-sdk
+langchainhub
+langgraph-checkpoint-sqlite
+langchain-community
+langchain-core
+# llm
+langchain-openai
+langchain-google-genai
+langchain-google-community
+langchain-groq
+langchain-cohere
+langchain_mistralai
+langchain-anthropic
+# db
+langchain-qdrant
+langchain-chroma
+langchain-together
+langchain-text-splitters
+notebook
+# api
+tavily-python
+wikipedia
+trustcall
